@@ -43,7 +43,8 @@ bower_components
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-./target
+./target/*
+*.war
 
 # Dependency directories
 node_modules/
